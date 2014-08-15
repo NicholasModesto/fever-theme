@@ -2,3 +2,5 @@
 _inspiration/*
 _source/*
 *.sublime*
+codekit*
+build/scss/_vendors/*
