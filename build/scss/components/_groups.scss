@@ -1,0 +1,53 @@
+#fever,
+#groups-container {
+  @include span-columns(3);
+}
+
+#fever {
+  display: inline-block;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  span#logo {
+    position: relative;
+    float: left;
+    width: 75%;
+  }
+
+  // settings button2
+  span.btn.menu.action {
+    position: relative;
+    float: left;
+  }
+}
+
+#groups-container {
+
+  // HOT Category
+  li#section-0 {
+
+  }
+
+  // Kindling
+  li#group-0 {
+
+  }
+
+  // Saved
+  li#section-2 {
+
+  }
+
+  // Sparks
+  li#section-3 {
+
+  }
+
+  // Search
+  li#section-4 {
+
+  }
+
+}
+

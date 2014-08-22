@@ -1,0 +1,17 @@
+div.container {
+  @include outer-container;
+
+  // Feeds Refresh
+  div#status {
+
+
+    div#refreshed {
+
+    }
+
+    div#refreshing {
+      
+    }
+  }
+
+}

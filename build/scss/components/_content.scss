@@ -1,0 +1,13 @@
+#content-container {
+  @include span-columns(6);
+
+  div.item {
+
+    div.content {
+      
+      div.meta {}
+      div.item-content {}
+    }
+  }
+}
+
